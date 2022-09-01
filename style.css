@@ -137,3 +137,8 @@ p {
   width: 100%;
   height: auto;
 }
+
+img {
+  width: 1200px;
+  padding-left: 250px;
+}
