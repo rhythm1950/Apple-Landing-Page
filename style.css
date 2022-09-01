@@ -131,3 +131,9 @@ p {
   color: white;
   background-color: rgb(7, 62, 171);
 }
+
+.section4 {
+  padding-top: 50px;
+  width: 100%;
+  height: auto;
+}
