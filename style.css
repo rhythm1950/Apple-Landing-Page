@@ -106,3 +106,28 @@ p {
   font-size: 20px;
   font-weight: 350;
 }
+
+.section3 {
+  text-align: center;
+  padding-top: 40px;
+  width: 100%;
+}
+
+.button2 {
+  background-color: rgb(7, 62, 171);
+  border: none;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.button2:hover {
+  color: white;
+  background-color: rgb(7, 62, 171);
+}
