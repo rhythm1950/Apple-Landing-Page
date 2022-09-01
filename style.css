@@ -150,3 +150,40 @@ img {
     padding: 0 32px;
   }
 }
+
+@media (max-width: 500px) {
+  .nav a {
+    float: none;
+    display: block;
+  }
+
+  .section1 .logo {
+    float: none;
+    display: block;
+    margin-left: 17px;
+    margin-right: 0px;
+    margin-top: 20px;
+  }
+
+  .section1 a {
+    float: none;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .section2 h3 h1 p {
+    float: none;
+    display: block;
+  }
+
+  .section4 img {
+    width: 100%;
+    height: auto;
+  }
+
+  .button {
+    padding: 7px 2px;
+    display: inline;
+    margin: 5px 10px;
+  }
+}
