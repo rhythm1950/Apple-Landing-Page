@@ -107,7 +107,7 @@ p {
   font-weight: 350;
 }
 
-.section3 {
+.btn-div {
   text-align: center;
   padding-top: 40px;
   width: 100%;
@@ -132,7 +132,7 @@ p {
   background-color: rgb(7, 62, 171);
 }
 
-.section4 {
+.img-div {
   padding-top: 50px;
   width: 100%;
   height: auto;
@@ -176,7 +176,7 @@ img {
     display: block;
   }
 
-  .section4 img {
+  .img-div img {
     width: 100%;
     height: auto;
   }
