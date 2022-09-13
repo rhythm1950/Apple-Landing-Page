@@ -7,7 +7,7 @@ const TopBar = () => {
         <a href="#">
           <i
             className="fa fa-apple"
-            style="font-size: 18px; color: rgba(240, 255, 255, 0.664)"
+            style={{ fontSize: "18px", color: "rgba(240, 255, 255, 0.664)" }}
           ></i>
         </a>
         <a href="#">Store</a>
@@ -23,12 +23,12 @@ const TopBar = () => {
         <a href="#">
           <i
             className="fa fa-search"
-            style="font-size: 18px; color: rgba(240, 255, 255, 0.664)"
+            style={{ fontSize: "18px", color: "rgba(240, 255, 255, 0.664)" }}
           ></i>
         </a>
         <a href="#">
           <i
-            style="font-size: 18px; color: rgba(240, 255, 255, 0.664)"
+            style={{ fontSize: "18px", color: "rgba(240, 255, 255, 0.664)" }}
             className="fa"
           >
             &#xf290;

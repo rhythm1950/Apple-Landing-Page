@@ -8,6 +8,10 @@
   text-decoration: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* Header */
 header {
   display: flex;
@@ -139,7 +143,6 @@ p {
 }
 
 img {
-  width: 1200px;
   padding-left: 250px;
 }
 
